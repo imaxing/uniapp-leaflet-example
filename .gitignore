@@ -1,0 +1,6 @@
+node_modules/*
+dist/*
+.hbuilderx
+.Ds_Store
+.main.js
+unpackage/
